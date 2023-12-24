@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2023-12-23T12:01:45+00:00</lastmod>
+		<lastmod>2023-12-24T11:59:36+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/12/Asset2.png</image:loc>
 		</image:image>
@@ -38,114 +38,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/tentang/</loc>
-		<lastmod>2023-12-23T12:16:15+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Asset2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/ngerabi-main.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/undangan1-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/undangan2-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/undangan3-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/undangan4-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/mobile.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Asset3.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/tema/</loc>
-		<lastmod>2023-12-23T12:05:44+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Asset2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/undangan1-1024x495.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/undangan2-1024x489.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/undangan3-1024x493.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/undangan4-1024x488.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/undangan5-e1703067305962-1024x499.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Asset3.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/tema-1/</loc>
-		<lastmod>2023-12-23T11:54:26+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Asset2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/undangan1-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/undangan1-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/undangan1-2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/undangan1-3.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/undangan1-4.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/undangan1-5.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/ScreenShot-Tool-20231222194907-1024x486.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/ScreenShot-Tool-20231222195012-1024x486.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/ScreenShot-Tool-20231222195050-1024x486.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/ScreenShot-Tool-20231222195118-1024x486.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/ScreenShot-Tool-20231222195141-1024x486.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Asset3.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/disclaimer-syarat/</loc>
-		<lastmod>2023-12-23T11:52:33+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Asset2.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/Asset3.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/tema-5/</loc>
-		<lastmod>2023-12-23T11:22:35+00:00</lastmod>
+		<lastmod>2023-12-24T14:53:50+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/12/Asset2.png</image:loc>
 		</image:image>
@@ -188,7 +82,7 @@
 	</url>
 	<url>
 		<loc>/tema-4/</loc>
-		<lastmod>2023-12-23T11:22:09+00:00</lastmod>
+		<lastmod>2023-12-24T14:51:47+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/12/Asset2.png</image:loc>
 		</image:image>
@@ -196,34 +90,34 @@
 			<image:loc>/wp-content/uploads/2023/12/undangan4-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/undangan4-6.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/undangan4-7.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/undangan4-2.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/undangan4-2-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/undangan4-3.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/undangan4-3-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/undangan4-4.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/undangan4-4-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/undangan4-5.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/undangan4-5-1.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/undangan4-1024x488.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/ScreenShot-Tool-20231224205814-1024x486.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/ScreenShot-Tool-20231222222511-1024x486.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/ScreenShot-Tool-20231224205841-1024x486.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/ScreenShot-Tool-20231222222615-1024x486.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/ScreenShot-Tool-20231224205855-1024x486.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/ScreenShot-Tool-20231222222536-1024x486.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/ScreenShot-Tool-20231224205909-1024x486.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/ScreenShot-Tool-20231222222544-1024x486.png</image:loc>
+			<image:loc>/wp-content/uploads/2023/12/ScreenShot-Tool-20231224205919-1024x486.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/12/Asset3.png</image:loc>
@@ -231,7 +125,7 @@
 	</url>
 	<url>
 		<loc>/tema-3/</loc>
-		<lastmod>2023-12-23T11:21:28+00:00</lastmod>
+		<lastmod>2023-12-24T14:49:56+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/12/Asset2.png</image:loc>
 		</image:image>
@@ -274,7 +168,7 @@
 	</url>
 	<url>
 		<loc>/tema-2/</loc>
-		<lastmod>2023-12-23T11:20:35+00:00</lastmod>
+		<lastmod>2023-12-24T14:47:14+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/12/Asset2.png</image:loc>
 		</image:image>
@@ -310,6 +204,112 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/12/ScreenShot-Tool-20231222213745-1024x486.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Asset3.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/tema/</loc>
+		<lastmod>2023-12-24T14:45:42+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Asset2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/undangan1-1024x495.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/undangan2-1024x489.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/undangan3-1024x493.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/undangan4-1024x488.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/undangan5-e1703067305962-1024x499.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Asset3.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/tema-1/</loc>
+		<lastmod>2023-12-24T14:44:05+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Asset2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/undangan1-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/undangan1-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/undangan1-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/undangan1-3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/undangan1-4.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/undangan1-5.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/ScreenShot-Tool-20231222194907-1024x486.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/ScreenShot-Tool-20231222195012-1024x486.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/ScreenShot-Tool-20231222195050-1024x486.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/ScreenShot-Tool-20231222195118-1024x486.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/ScreenShot-Tool-20231222195141-1024x486.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Asset3.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/tentang/</loc>
+		<lastmod>2023-12-24T13:02:08+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Asset2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/ngerabi-main.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/undangan1-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/undangan2-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/undangan3-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/undangan4-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/mobile.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Asset3.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/disclaimer-syarat/</loc>
+		<lastmod>2023-12-23T11:52:33+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/12/Asset2.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/12/Asset3.png</image:loc>
