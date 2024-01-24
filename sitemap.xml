@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//ngerabi.pages.dev/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>/post-sitemap.xml</loc>
+		<loc>https://ngerabi.pages.dev/post-sitemap.xml</loc>
 		<lastmod>2023-12-05T13:03:27+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/page-sitemap.xml</loc>
+		<loc>https://ngerabi.pages.dev/page-sitemap.xml</loc>
 		<lastmod>2023-12-24T14:53:50+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>/category-sitemap.xml</loc>
+		<loc>https://ngerabi.pages.dev/category-sitemap.xml</loc>
 		<lastmod>2023-12-05T13:03:27+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
